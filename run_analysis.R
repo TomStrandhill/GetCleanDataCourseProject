@@ -6,7 +6,6 @@ library(plyr)
 
 #Pre Work#
 # load required files into R
-# Files will have been placed in working dir
 getwd() #check working Dir
 # Make sure files loaded in working Dir#
 
